@@ -1,7 +1,7 @@
 ## Welcome to my Github!
 
 Hi, I am Diego! 👋🏼
-DevOps
+## Diego Carvalho - DevOps
 
 ## ⚡ GitHub Stats
 <div align="center">
