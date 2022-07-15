@@ -16,5 +16,5 @@ Hi, I am Diego! 👋🏼
  
 </div>
 
-![Snake animation](https://github.com/santospedroh/santospedroh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/diegojc33/diegojc33/blob/output/github-contribution-grid-snake.svg)
 
