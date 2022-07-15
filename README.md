@@ -3,9 +3,10 @@
 Hi, I am Diego! 👋🏼
 
 ## ⚡ GitHub Stats
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoJC33&theme=darcula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJC33&layout=compact&theme=darcula">
+<div align="center">
+  <a href="https://github.com/diegojc33">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegojc33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojc33&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  <div style="display: inline_block"><br>
@@ -15,7 +16,6 @@ Hi, I am Diego! 👋🏼
   <img align="center" alt="GU-K8S" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="GU-DOC" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="GU-GO" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  
   
 <div> 
 
